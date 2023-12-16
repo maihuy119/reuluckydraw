@@ -1,0 +1,530 @@
+[
+ {
+  "name": "Nguyễn Thị Lệ Quyên",
+  "depart": "HR"
+ },
+ {
+  "name": "Trần Thanh Phương",
+  "depart": "HR"
+ },
+ {
+  "name": "Mai Nguyễn Quốc Huy",
+  "depart": "IT"
+ },
+ {
+  "name": "Phan Thị Oanh",
+  "depart": "ACC"
+ },
+ {
+  "name": "Lê Thị Ny",
+  "depart": "ACC"
+ },
+ {
+  "name": "Đỗ Nguyễn Kỳ Duyên",
+  "depart": "ACC"
+ },
+ {
+  "name": "Trần Thị Phúc",
+  "depart": "ACC"
+ },
+ {
+  "name": "Hồ Thị Lệ Nghè",
+  "depart": "ACC"
+ },
+ {
+  "name": "Đào Thị Na",
+  "depart": "ACC"
+ },
+ {
+  "name": "Nguyễn Thị Hoàng Anh",
+  "depart": "ACC"
+ },
+ {
+  "name": "Hoàng Thị Bích Trâm",
+  "depart": "SALES"
+ },
+ {
+  "name": "Phạm Văn Hoàng",
+  "depart": "SALES"
+ },
+ {
+  "name": "Trần Thị Thuận",
+  "depart": "SALES"
+ },
+ {
+  "name": "Lê Thị Cẩm Ly",
+  "depart": "SALES"
+ },
+ {
+  "name": "Nguyễn Thị Hiền",
+  "depart": "SALES"
+ },
+ {
+  "name": "Phan Bá Thi",
+  "depart": "FB"
+ },
+ {
+  "name": "Ngô Lê Khánh",
+  "depart": "FB"
+ },
+ {
+  "name": "Đỗ Hoàng Luyến",
+  "depart": "FB"
+ },
+ {
+  "name": "Bùi Thị Phương",
+  "depart": "FB"
+ },
+ {
+  "name": "Võ Thị Hồng Trinh",
+  "depart": "FB"
+ },
+ {
+  "name": "Phạm Thị Lan Phương",
+  "depart": "FB"
+ },
+ {
+  "name": "Bùi Thị Ánh Tuyết",
+  "depart": "FB"
+ },
+ {
+  "name": "Đinh Thị Xuân Hương",
+  "depart": "FB"
+ },
+ {
+  "name": "Lê Nguyễn Thảo Nguyên",
+  "depart": "FB"
+ },
+ {
+  "name": "Đoàn Thị Kiều Hoa",
+  "depart": "FB"
+ },
+ {
+  "name": "Lê Thị Thanh Diệu",
+  "depart": "FB"
+ },
+ {
+  "name": "Võ Thị Bích Quỳnh",
+  "depart": "FB"
+ },
+ {
+  "name": "Huỳnh Thị Phương Cường",
+  "depart": "FB"
+ },
+ {
+  "name": "Hồ Văn Vinh",
+  "depart": "FB"
+ },
+ {
+  "name": "Lê Tấn Hoà",
+  "depart": "FB"
+ },
+ {
+  "name": "Võ Đặng Thanh Bình",
+  "depart": "FB"
+ },
+ {
+  "name": "Lê Tiến Đạt",
+  "depart": "FB"
+ },
+ {
+  "name": "Ngô Xuân Hoàng Duy",
+  "depart": "FB"
+ },
+ {
+  "name": "Hà Anh Tín",
+  "depart": "FB"
+ },
+ {
+  "name": "Huỳnh Quốc Trung",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Văn Hữu Tuấn",
+  "depart": "FB"
+ },
+ {
+  "name": "Bùi Phước Nhật Huy",
+  "depart": "FB"
+ },
+ {
+  "name": "Lê Lợi",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Văn Thường",
+  "depart": "FB"
+ },
+ {
+  "name": "Mai Đinh Nhật Tường",
+  "depart": "FB"
+ },
+ {
+  "name": "Thái Thành Vinh",
+  "depart": "FB"
+ },
+ {
+  "name": "Trần Thị Yến Nhi",
+  "depart": "FB"
+ },
+ {
+  "name": "Bùi Uyên Chi",
+  "depart": "FB"
+ },
+ {
+  "name": "Trần Thị Nhật Thủy",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Như",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Võ Diệu Thảo",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Kiều",
+  "depart": "FB"
+ },
+ {
+  "name": "Hà Thị Thu",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Thuỳ Cườm",
+  "depart": "FB"
+ },
+ {
+  "name": "Trần Thị Thúy Phương",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Thuận",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Thọ",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Xuân",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thanh Bình",
+  "depart": "FB"
+ },
+ {
+  "name": "Phạm Văn Bình",
+  "depart": "FB"
+ },
+ {
+  "name": "Lê Thảo Nguyên",
+  "depart": "FB"
+ },
+ {
+  "name": "Huỳnh Đức Bình",
+  "depart": "FB"
+ },
+ {
+  "name": "Đoàn Nhân Hậu",
+  "depart": "FB"
+ },
+ {
+  "name": "Đặng Thị Một",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Bé",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Trúc",
+  "depart": "FB"
+ },
+ {
+  "name": "Lê Thị Minh Châu",
+  "depart": "FB"
+ },
+ {
+  "name": "Trần Thị Phúc",
+  "depart": "FB"
+ },
+ {
+  "name": "Trần Thị Hồng Vân",
+  "depart": "FB"
+ },
+ {
+  "name": "Huỳnh Thị Nhi",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Thị Trường",
+  "depart": "FB"
+ },
+ {
+  "name": "Nguyễn Minh Toàn",
+  "depart": "KI"
+ },
+ {
+  "name": "Trần Tấn Nhất",
+  "depart": "KI"
+ },
+ {
+  "name": "Trần Văn Bảo",
+  "depart": "KI"
+ },
+ {
+  "name": "Phạm Văn Sa",
+  "depart": "KI"
+ },
+ {
+  "name": "Lê Hà Bình",
+  "depart": "KI"
+ },
+ {
+  "name": "Ngô Trung Hậu",
+  "depart": "KI"
+ },
+ {
+  "name": "Mai Văn Thắng",
+  "depart": "KI"
+ },
+ {
+  "name": "Đỗ Văn Phúc",
+  "depart": "KI"
+ },
+ {
+  "name": "Lê Thanh Vĩ",
+  "depart": "KI"
+ },
+ {
+  "name": "Võ Thị Xin",
+  "depart": "KI"
+ },
+ {
+  "name": "Đoàn Văn Tuấn",
+  "depart": "KI"
+ },
+ {
+  "name": "Huỳnh Nhật Cường",
+  "depart": "KI"
+ },
+ {
+  "name": "Hồ Văn Mạnh",
+  "depart": "KI"
+ },
+ {
+  "name": "Võ Thị Phương Hằng",
+  "depart": "KI"
+ },
+ {
+  "name": "Trần Duy Khánh",
+  "depart": "KI"
+ },
+ {
+  "name": "Đỗ Thị Tuân",
+  "depart": "KI"
+ },
+ {
+  "name": "Ngô Quang Tùng",
+  "depart": "KI"
+ },
+ {
+  "name": "Lê Thị Nguyên Hào",
+  "depart": "KI"
+ },
+ {
+  "name": "Đặng Thị Hồng Lạc",
+  "depart": "KI"
+ },
+ {
+  "name": "Trương Văn Tài",
+  "depart": "KI"
+ },
+ {
+  "name": "Trần Thị Mỹ Lan",
+  "depart": "KI"
+ },
+ {
+  "name": "Bùi Thị Diễm Trinh",
+  "depart": "KI"
+ },
+ {
+  "name": "Ngô Quang Sang",
+  "depart": "KI"
+ },
+ {
+  "name": "Nguyễn Thanh Việt",
+  "depart": "KI"
+ },
+ {
+  "name": "Lê Tân Tiểu My",
+  "depart": "KI"
+ },
+ {
+  "name": "Nguyễn Ngọc Bình",
+  "depart": "KI"
+ },
+ {
+  "name": "Phạm Em",
+  "depart": "KI"
+ },
+ {
+  "name": "Đinh Thị Bân",
+  "depart": "KI"
+ },
+ {
+  "name": "Võ Thị Chín",
+  "depart": "KI"
+ },
+ {
+  "name": "Lương Quang Quý",
+  "depart": "KI"
+ },
+ {
+  "name": "Cao Thị Chín",
+  "depart": "KI"
+ },
+ {
+  "name": "Nguyễn Thị Mai",
+  "depart": "KI"
+ },
+ {
+  "name": "Lê Thị Thìn",
+  "depart": "KI"
+ },
+ {
+  "name": "Nguyễn Lin",
+  "depart": "KI"
+ },
+ {
+  "name": "Văn Hồng Sơn",
+  "depart": "KI"
+ },
+ {
+  "name": "Đỗ Hoàng Hải",
+  "depart": "KI"
+ },
+ {
+  "name": "Lê Thành Đạt",
+  "depart": "KI"
+ },
+ {
+  "name": "Nguyễn Lê Huyền My",
+  "depart": "KI"
+ },
+ {
+  "name": "Lê Thị Hồng",
+  "depart": "KI"
+ },
+ {
+  "name": "Nguyễn Thị Nhật Quỳnh",
+  "depart": "KI"
+ },
+ {
+  "name": "Trần Minh Nghĩa",
+  "depart": "KI"
+ },
+ {
+  "name": "Dương Thị Bê Em",
+  "depart": "KI"
+ },
+ {
+  "name": "Hoàng Thị Lệ Vinh",
+  "depart": "KI"
+ },
+ {
+  "name": "Huỳnh Tấn Tuấn",
+  "depart": "DRIVE"
+ },
+ {
+  "name": "Mai Thanh Nghị",
+  "depart": "DRIVE"
+ },
+ {
+  "name": "Nguyễn Phước",
+  "depart": "DRIVE"
+ },
+ {
+  "name": "Trần Cu Tâm",
+  "depart": "DRIVE"
+ },
+ {
+  "name": "Nguyễn Văn Hùng",
+  "depart": "DRIVE"
+ },
+ {
+  "name": "Mai Hữu",
+  "depart": "GARDENER"
+ },
+ {
+  "name": "Nguyễn Hường",
+  "depart": "GARDENER"
+ },
+ {
+  "name": "Nguyễn Văn Huấn",
+  "depart": "GARDENER"
+ },
+ {
+  "name": "Bùi Thị Thu",
+  "depart": "GARDENER"
+ },
+ {
+  "name": "Nguyễn Phú Mỹ",
+  "depart": "SR"
+ },
+ {
+  "name": "Nguyễn Ngọc Hay",
+  "depart": "SR"
+ },
+ {
+  "name": "Nguyễn Văn Trung",
+  "depart": "SR"
+ },
+ {
+  "name": "Lê Hoàng Minh Tấn",
+  "depart": "SR"
+ },
+ {
+  "name": "Lê Văn Hùng",
+  "depart": "SR"
+ },
+ {
+  "name": "Lê Thái Dương",
+  "depart": "SR"
+ },
+ {
+  "name": "Phan Hồng",
+  "depart": "SR"
+ },
+ {
+  "name": "Nguyễn Lai",
+  "depart": "SR"
+ },
+ {
+  "name": "Đặng Hữu Ân",
+  "depart": "ME"
+ },
+ {
+  "name": "Phan Uyên Vũ",
+  "depart": "ME"
+ },
+ {
+  "name": "Nguyễn Thanh Dương",
+  "depart": "ENG"
+ },
+ {
+  "name": "Hồ Viết Bình",
+  "depart": "ENG"
+ },
+ {
+  "name": "Nguyễn Tấn Dương",
+  "depart": "ENG"
+ },
+ {
+  "name": "Lê Hà",
+  "depart": "ENG"
+ }
+]
