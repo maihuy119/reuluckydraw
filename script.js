@@ -1,21 +1,21 @@
-var selectedPerson;
-var excludedIds = [];
+let selectedPerson;
+let excludedIds = [];
 
 function randomName() {
   // Hiển thị tên ngẫu nhiên trên trang
-  var xhr = new XMLHttpRequest();
-  var jsonFilePath = 'list.json';
+  let xhr = new XMLHttpRequest();
+  let jsonFilePath = 'list.json';
 
   fetch(jsonFilePath)
     .then(response => response.json())
     .then(data => {
-      var persons = data;
-      var filteredPersons = persons.filter(function (person) {
+      let persons = data;
+      let filteredPersons = persons.filter(function (person) {
         return !excludedIds.includes(person.id);
       });
 
       // Chọn tên ngẫu nhiên
-      var randomIndex = Math.floor(Math.random() * filteredPersons.length);
+      let randomIndex = Math.floor(Math.random() * filteredPersons.length);
       selectedPerson = filteredPersons[randomIndex];
 
       console.log(selectedPerson.id);
@@ -30,7 +30,7 @@ function randomName() {
 function roll() {
   document.getElementById('roll').style.visibility = 'hidden';
   document.getElementById('clear').style.display = 'none';
-  var roll = setInterval(randomName, 5);
+  let roll = setInterval(randomName, 5);
   setTimeout(function () {
     clearInterval(roll); // Dừng setInterval
     document.getElementById('roll').innerText = 'Tiếp tục';
