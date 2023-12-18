@@ -6,33 +6,25 @@ function randomName() {
   var xhr = new XMLHttpRequest();
   var jsonFilePath = 'list.json';
 
-  xhr.onreadystatechange = function () {
-    if (xhr.readyState === 4 && xhr.status === 200) {
-      var jsonData = JSON.parse(xhr.responseText);
-      console.log(xhr.responseText);
-      console.log(jsonData);
-      var persons = jsonData;
-
+  fetch(jsonFilePath)
+    .then(response => response.json())
+    .then(data => {
+      var persons = data;
       var filteredPersons = persons.filter(function (person) {
         return !excludedIds.includes(person.id);
       });
 
       // Chọn tên ngẫu nhiên
-      console.log(filteredPersons);
       var randomIndex = Math.floor(Math.random() * filteredPersons.length);
       selectedPerson = filteredPersons[randomIndex];
-      console.log(filteredPersons[randomIndex]);
-      console.log(selectedPerson.id);
 
+      console.log(selectedPerson.id);
       // Hiển thị tên ngẫu nhiên trong phần tử có id là "displayRandomName"
       document.getElementById('name').innerText = selectedPerson.name;
       document.getElementById('depart').style.color = '#000';
       document.getElementById('depart').innerText = selectedPerson.depart;
-    }
-  };
-
-  xhr.open('GET', jsonFilePath, true);
-  xhr.send();
+    })
+    .catch(error => console.error('Error fetching data:', error));      
 }
 
 function roll() {
