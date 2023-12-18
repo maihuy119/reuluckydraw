@@ -9,6 +9,8 @@ function randomName() {
   xhr.onreadystatechange = function () {
     if (xhr.readyState === 4 && xhr.status === 200) {
       var jsonData = JSON.parse(xhr.responseText);
+      console.log(xhr.responseText);
+      console.log(jsonData);
       var persons = jsonData;
 
       var filteredPersons = persons.filter(function (person) {
@@ -16,6 +18,7 @@ function randomName() {
       });
 
       // Chọn tên ngẫu nhiên
+      console.log(filteredPersons);
       var randomIndex = Math.floor(Math.random() * filteredPersons.length);
       selectedPerson = filteredPersons[randomIndex];
       console.log(filteredPersons[randomIndex]);
