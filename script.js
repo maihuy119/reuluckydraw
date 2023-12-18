@@ -18,6 +18,7 @@ function randomName() {
       // Chọn tên ngẫu nhiên
       var randomIndex = Math.floor(Math.random() * filteredPersons.length);
       selectedPerson = filteredPersons[randomIndex];
+      console.log(filteredPersons[randomIndex]);
       console.log(selectedPerson.id);
 
       // Hiển thị tên ngẫu nhiên trong phần tử có id là "displayRandomName"
