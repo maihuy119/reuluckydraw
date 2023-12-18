@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <script src="read.js"></script>
     <script src="script.js"></script>
     <title>Chọn Tên Ngẫu Nhiên</title>
 </head>
@@ -18,8 +17,10 @@
         <div class="name" id="name">Winner</div>
         <div class="depart" id="depart">Depart</div>
         <div class="button">
-            <button onclick="roll()">BẮT ĐẦU</button>
+            <button id="roll" onclick="roll()">BẮT ĐẦU</button>
+            <button id="clear" onclick="clearSelect()">Clear</button>
         </div>
+        
     </div>
 </body>
 
