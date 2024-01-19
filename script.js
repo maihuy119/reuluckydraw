@@ -18,7 +18,7 @@ function randomName() {
       let randomIndex = Math.floor(Math.random() * filteredPersons.length);
       selectedPerson = filteredPersons[randomIndex];
 
-      console.log(selectedPerson.id);
+      console.log(selectedPerson.name);
       // Hiển thị tên ngẫu nhiên trong phần tử có id là "displayRandomName"
       document.getElementById('name').innerText = selectedPerson.name;
       document.getElementById('depart').style.color = '#000';
