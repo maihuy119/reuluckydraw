@@ -1,5 +1,5 @@
 let selectedPerson;
-let excludedIds = [];
+let excludedIds = ["100"];
 
 function randomName() {
   // Hiển thị tên ngẫu nhiên trên trang
